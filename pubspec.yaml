@@ -1,0 +1,68 @@
+name: final_project
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  cloud_firestore: ^4.17.3
+  firebase_auth: ^4.19.5
+  firebase_core: ^2.31.0
+  fl_chart: ^0.68.0
+  flutter:
+    sdk: flutter
+  flutter_animate: ^4.5.0
+  image_picker: ^1.1.1
+  loading_animation_widget: ^1.2.1
+  table_calendar: ^3.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/men.jpg
+    - assets/gym.jpg
+    - assets/gym2.jpg
+    - assets/gym3.jpg
+    - assets/gym4.jpg
+    - assets/gym5.png
+    - assets/hhh fitness.png
+    - assets/gym8.jpg
+    - assets/beg1.jpg
+    - assets/beg2.jpg
+    - assets/beg3.jpg
+    - assets/beg4.jpg
+    - assets/beg5.jpg
+    - assets/int1.jpg
+    - assets/int2.jpeg
+    - assets/int3.jpg
+    - assets/int4.jpeg
+    - assets/int5.jpeg
+    - assets/pro1.jpg
+    - assets/pro2.jpg
+    - assets/pro3.jfif
+    - assets/pro4.jpg
+    - assets/pro5.jpg
+    - assets/mountain.webp
+    - assets/russian.jpg
+    - assets/plank.jpg
+    - assets/jumping.jpg
+    - assets/cobra.jpg
+    - assets/abdominal.webp
+    - assets/abdom.webp
+    - assets/jump.jpg
+    - assets/legr.jpg
+    - assets/mount.jpg
+    - assets/planks.jpg
+    - assets/russ.jpg
+    - assets/cob.jpg
+    - assets/profile.jpg
+  
+
+
